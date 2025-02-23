@@ -188,4 +188,5 @@ gunicorn -w 2 -b 0.0.0.0:5000 app:app
 - 📜 *Uses AWS Bedrock for MCQ generation*
 - 📄 *Generates downloadable PDFs*
 
-Let me know if you need *modifications or additional features*! 🚀🔥
+
+
