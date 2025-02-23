@@ -178,7 +178,7 @@ gunicorn -w 2 -b 0.0.0.0:5000 app:app
 
 ## *🌍 Step 5: Access the Web App*
 1. Open your browser.
-2. Go to **http://your-ec2-ip:5000/** to upload a file and generate MCQs.
+2. Go to **[ht](http://13.233.153.193:5000)** to upload a file and generate MCQs.
 
 ---
 
